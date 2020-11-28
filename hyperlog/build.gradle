@@ -16,13 +16,11 @@ ext {
 
     libraryVersion = computeVersionName()
 
-    developerId = 'piyushgupta27'
-    developerName = 'Piyush Gupta'
-    developerEmail = 'piyush@hypertrack.io'
+    developerId = 'Jayvinay'
+    developerName = 'Jay'
+    developerEmail = 'jayvinay.ml@gmail.com'
 
-    licenseName = 'The MIT License (MIT)'
-    licenseUrl = 'http://opensource.org/licenses/MIT'
-    allLicenses = ["MIT"]
+   
 }
 
 android {
